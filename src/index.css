@@ -172,8 +172,10 @@ a{
   background-color: #17171b;
   display: flex;
   justify-content: center;
-  gap: 20px;
   color: rgb(186, 182, 182);
+}
+.nav-bar>a{
+  padding-inline:10px ;
 }
 .nav-bar>a:hover{
   color: #ffffff;
@@ -308,8 +310,8 @@ hr{
   .explore-card{
     margin-bottom: 10px;
   }
-  .explore-card div{
-    margin-inline:10px;
+  .explore-card p{
+    padding-inline:10px;
   }
 
 }
