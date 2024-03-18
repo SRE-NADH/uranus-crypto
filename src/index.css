@@ -308,6 +308,9 @@ hr{
   .explore-card{
     margin-bottom: 10px;
   }
+  .explore-card div{
+    margin-inline:10px;
+  }
 
 }
 
